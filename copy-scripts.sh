@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing your local scripts
-LOCAL_SCRIPTS_DIR=/home/tomfal/scripts
+LOCAL_SCRIPTS_DIR=$HOME/scripts
 
 # Destination directory
 DEST_DIR=/usr/local/bin
